@@ -1,4 +1,4 @@
-🎉<p align="center">
+👍<p align="center">
   <img src="/Llama_Repo.jpeg" width="400"/>
 </p>
 
